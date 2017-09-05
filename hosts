@@ -1,0 +1,9 @@
+[web]
+ansibleslave
+ansibleslave2
+
+[web2]
+ansibleslave3
+
+[web3]
+ansibleslave2
