@@ -1,3 +1,5 @@
+
+
 ## Standalone JBoss Deployment
 
 - Requires Ansible 1.2 or newer
@@ -46,3 +48,5 @@ balancer or other web server frontend.
 
 We would love to see contributions and improvements, so please fork this
 repository on GitHub and send us your changes via pull requests.
+
+References :: https://github.com/ansible/ansible-examples
